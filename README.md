@@ -19,7 +19,7 @@ https://github.com/AntonOsika/gpt-engineer/tree/main
 1.) Create a folder, and a prompt (text file) for gpt-engineer
 
 2.) Install gpt-engineer with command :-
-    > python -m pip install gpt-engineer
+     `python -m pip install gpt-engineer`
 
 3.) Set key OPENAI API key with following command :-
     export OPENAI_API_KEY=[your api key]
